@@ -1,0 +1,11 @@
+
+
+.background { 
+  height: 100vh;
+  background-image: url("../img/gas.jpg");
+  background-size: auto 100vh;
+}
+
+.quadrado { 
+  opacity: 0.8;
+}
